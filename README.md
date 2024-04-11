@@ -1,4 +1,4 @@
-# projeto-LP-arquitetura
+# projeto-LP-arquitetura (Desafio 1)
 
 Este projeto foi desenvolvido para a resolução do DESAFIO 1 da formação em tecnologia da escola DNC
 
