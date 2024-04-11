@@ -1,1 +1,1 @@
-# proejto-LP-arquitetura
+# projeto-LP-arquitetura
