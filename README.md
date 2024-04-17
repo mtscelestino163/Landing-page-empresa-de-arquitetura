@@ -5,3 +5,5 @@ este projeto trata de uma landing page de apresentação de uma empresa de arqui
 *Link para a planilha no drive:* https://docs.google.com/spreadsheets/d/1ROSSPN39UytF3OWgKRkKGvkgpwG-EH030Oi1-eJ3kb0/edit?usp=sharing
 
 *Link do site hospedado pelo netlify:* https://projeto-lp-arquitetura-d1.netlify.app/
+
+![ERRO](https://github.com/mtscelestino163/Landing-page-empresa-de-arquitetura/blob/main/LP%20arquitetura.png)
